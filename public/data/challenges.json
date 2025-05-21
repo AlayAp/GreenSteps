@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "bus",
+    "title": "Zero Emission Week",
+    "desc": "Use public transport for 7 days",
+    "daysCompleted": 4,
+    "totalDays": 7,
+    "status": "Ongoing"
+  },
+  {
+    "id": 2,
+    "icon": "utensils",
+    "title": "Plant-Based Diet",
+    "desc": "Eat vegetarian meals for 5 days",
+    "daysCompleted": 5,
+    "totalDays": 5,
+    "status": "Completed"
+  }
+]
