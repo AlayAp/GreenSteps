@@ -1,0 +1,23 @@
+[
+  {
+    "title": "No Plastic Week",
+    "category": "Plastic",
+    "status": "Completed",
+    "daysLeft": 2,
+    "description": "Avoid using any single-use plastic items this week."
+  },
+  {
+    "title": "Bike to Work",
+    "category": "Transport",
+    "status": "Ongoing",
+    "daysLeft": 5,
+    "description": "Use a bicycle or walk to your workplace instead of driving."
+  },
+  {
+    "title": "Meatless Monday",
+    "category": "Food",
+    "status": "Ongoing",
+    "daysLeft": 1,
+    "description": "Skip meat-based meals every Monday."
+  }
+]
